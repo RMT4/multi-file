@@ -1,0 +1,85 @@
+# ==========================
+# LaTeX build files
+# ==========================
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+*.nav
+*.snm
+*.pdf
+
+# ==========================
+# Intermediate & backup files
+# ==========================
+*~
+*.bak
+*.tmp
+*.sav
+*.backup
+*.orig
+*.old
+*.synctex(busy)
+*.dvi
+*.ps
+
+# ==========================
+# PDF and other generated files
+# ==========================
+*.pdf_tex
+
+# ==========================
+# Latexmk & build tools
+# ==========================
+latexmkrc
+*.latexmain
+*.makefile
+*.makefile_conf
+*.out.ps
+
+# ==========================
+# Editors / IDEs
+# ==========================
+# VSCode
+.vscode/
+# TeXstudio
+*.synctex(busy)
+# TeXShop
+*.texshop
+# Overleaf local files
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.lol
+*.pdf
+
+# ==========================
+# Build directories (if used)
+# ==========================
+build/
+out/
+dist/
+tmp/
+
+# ==========================
+# Misc
+# ==========================
+*.DS_Store
+Thumbs.db
